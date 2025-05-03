@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Jnd here>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -36,7 +36,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website</h1>
+    <h1>Welcome to My Exp Zone</h1>
   </header>
   <main>
     <p>This is a simple home page built with HTML.</p>
